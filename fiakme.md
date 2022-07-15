@@ -4,7 +4,7 @@
 
 <h1 align="center">👋</h1>
 <p align="center">
-  <b>d3licieux, 18y Anonyme Hacker</b><br>
+  <b>d3licieux, 19y Anonyme Hacker</b><br>
   <a href="https://telegram.me/d3licieux">Telegram</a>
   <br></br>
 
@@ -24,8 +24,8 @@
   <img src="https://img.shields.io/github/followers/d3licieux?color=020202&label=FOLLOWERS&style=for-the-badge">
 </a>
 
-<a href="https://discord.gg/Crytek">
-         <img src="https://img.shields.io/website?color=020202&down_color=Crytek&down_message=Crytek&label=DISCORD&logo=Crytek&logoColor=black&style=for-the-badge&up_color=Crytek&up_message=DISCORD.GG%2FCrytek&url=https%3A%2F%2Fdiscord.gg%Crytek">
+<a href="https://discord.gg/apo">
+         <img src="https://img.shields.io/website?color=020202&down_color=APO&down_message=APO&label=DISCORD&logo=APO&logoColor=black&style=for-the-badge&up_color=APO&up_message=DISCORD.GG%2FAPO&url=https%3A%2F%2Fdiscord.gg%APO">
          </a>
 
 
